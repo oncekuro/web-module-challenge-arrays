@@ -163,7 +163,7 @@ function filterByWord(originalFlavors, flavor) {
   console.log(newFlavors);
 }
 console.log(filterByWord(originalFlavors, "Chocolate"));
-filterByWord(originalFlavors, "Coffee");
+filterByWord(originalFlavors, "Chocolate");
 
 /* 🧁🍦🍨 STRETCH 🍨🍦🍫*/
 
